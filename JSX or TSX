@@ -1,0 +1,10 @@
+Which is better, JSX or TSX?
+tsx files are designed to include JSX code, which allows embedding HTML-like syntax directly within TypeScript code.
+This feature is handy when working with React components, as it enables a more natural, declarative style for defining UI components. 
+In contrast, . ts files do not support JSX.
+
+Can I mix JS and TSX?
+Yes, you can use TypeScript and JavaScript together in the same project. TypeScript is a superset of JavaScript,
+which means that any valid JavaScript code is also valid TypeScript code. 
+This makes it easy to migrate an existing JavaScript project to TypeScript bit by bit.
+
