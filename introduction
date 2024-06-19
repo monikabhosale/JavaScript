@@ -1,0 +1,29 @@
+What is JavaScript?
+Javascript is a cross-platform programming language for front-end and back-end development.
+JavaScript is used in building web pages, backend servers, and interactive applications with interactive user experience.
+It is created to make the static pages more dynamic with sophisticated features and functionality like search boxes on websites like Amazon, 
+interactive maps, refreshing content updates on social media platforms, etc.
+
+JavaScript was developed in the year 1994 for only the Netscape browser to bring interaction on the webpages. 
+It was in 1997 when the first standardized version of JavaScript was introduced by ECMAScript.
+From then till today, newer versions of Javascript have been developed like ECMAScript 12 to primarily standardize the language,
+and provide better execution, interaction, and performance of the language.
+JavaScript became the fundamental scripting language for front-end development with HTML and CSS.
+Let us read about an example to get a clear idea of what functionality JavaScript bring to web pages or applications
+
+JavaScript is an object-oriented scripting language that allows you to add interactive elements to web pages. For example, 
+allowing users to log in after clicking the login button is possible through JavaScript only.
+Earlier JavaScript was limited to only front-end development but with the introduction of virtual engines like Google V8 and Node.
+js, it can also function well for server-side development as well.
+For example, the set of JavaScript objects and elements like Array, Date, operators, control structures, etc 
+provide the functionality to run JavaScript on the server as well as on the browser.
+It helps in performing functions like accessing low-level I/O API, communicating with a database and so much more
+
+What is TypeScript?
+TypeScript is a programming language that is syntactical to JavaScript.
+It means it includes all the features of JavaScript and additional features as well.
+You must be wondering then, what is the difference or why we need TypeScript? JavaScript is one of the fundamental scripting front-end languages for web development.
+However,there were some quirks or problems, for which Microsoft created TypeScript in 2012.
+It is in the features and characteristics of the language, that lies the difference between TypeScript and JavaScript. 
+So, let us read about the key features of JavaScript and TypeScript.
+
